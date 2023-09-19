@@ -13,22 +13,22 @@ This model serves a crucial purpose – predicting the likelihood of customers c
 ## Rubrics  💡 💡 💡 💡 
 Our project rubrics follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework, providing a structured approach to our solution.
 
-### **1. Business Understanding :man**
+### **1. Business Understanding** :atom:
 - We comprehensively analyze the challenge faced by the African telecommunications company, focusing on customer churn prediction as a key business objective.
 
-### **2. Data Understanding 📖 📖 📖 📖 **
+### **2. Data Understanding** 📖 📖 📖 📖 
 - We explore and thoroughly understand the dataset, ensuring its relevance and quality for our machine learning model.
 
-### **3. Data Preparation 🧹 🧹 🧹 🧹 **
+### **3. Data Preparation** 🧹 🧹 🧹 🧹 
 - We preprocess and clean the data, including feature engineering and handling missing values, to prepare it for model training.
 
-### **4. Modeling 🏗️ 🏗️ 🏗️ 🏗️**
+### **4. Modeling** 🏗️ 🏗️ 🏗️ 🏗️
 - We employ various machine learning techniques  to build predictive models for customer churn, selecting the most effective one based on evaluation metrics such as AUC (Area Under the Receiver Operating Characteristic Curve) score.
 
-### **5. Evaluation 💻 💻 💻 💻**
+### **5. Evaluation** 💻 💻 💻 💻
 - We assess the model's performance using the AUC score, ensuring it meets the project's objectives.
 
-### **6. Deployment 🚚 🚚 🚚 🚚**
+### **6. Deployment** 🚚 🚚 🚚 🚚
 - We discuss the potential deployment strategies for integrating our model into the telecommunications company's operations.
 
 ### **7. Conclusion**
@@ -36,7 +36,7 @@ Our project rubrics follows the **CRISP-DM** (Cross-Industry Standard Process fo
 
 Our adherence to the CRISP-DM framework ensures a well-structured and effective approach to solving the customer churn challenge.
 
-### **8. Fine tune our model  🎨 🎨 🎨 🎨**
+### **8. Fine tune our model** 🎨 🎨 🎨 🎨
 The goal is to: 
 -(a) Improve the AUC 
 -(b) Have an good eval on zindi challenge  
